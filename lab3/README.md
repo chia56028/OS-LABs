@@ -55,7 +55,8 @@ Effective 	UID = 0
 ```
 
 ## Exercise_2 [+10 pt]
-![](https://i.imgur.com/d6zROjN.png)
+![](https://i.imgur.com/dY2js20.png)
+![](https://i.imgur.com/f9W4UIK.png)
 
 ### Implement
 ```bash
@@ -90,6 +91,7 @@ My effective user id = 0
 ```
 
 ## Exercise_2 Bonus [+5 pt]
+![](https://i.imgur.com/OA32659.png)
 因為如果不是 root 去呼叫 seteuid() 的話，是無法拿到其他使用者的權限的，所以還是用 chmod 進行提權。
 
 ### Implement
