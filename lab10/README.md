@@ -1,6 +1,6 @@
 OSLAB 10
 ===
-### Exercise I
+## Exercise I
 #### Exercise 1_1 [+20pts]
 Compile previous example code and execute it ten times.
 ```bash
@@ -10,7 +10,7 @@ gcc ex1_1.c -o ex1_1 -pthread
 #### Exercise 1_2 [+30pts]
 Using semaphore to solve the race condition occurred in previous example code.
 
-### Exercise II [+40pts]
+## Exercise II [+40pts]
 - Devise a semaphore solution to the multiple Producer-multiple Consumer problem.
 - Constraint:
 	- 10 producers and 10 consumers.
